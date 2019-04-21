@@ -1,1 +1,1 @@
-web: python3 telp.py
+web: python3 echo_bot.py
